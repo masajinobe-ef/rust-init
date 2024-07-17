@@ -1,0 +1,6 @@
+[package]
+name = "Rust"
+version = "0.1.0"
+authors = ["masajinobe"]
+description = "example"
+readme = "README.md"
